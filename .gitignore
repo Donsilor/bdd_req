@@ -1,0 +1,14 @@
+/.settings
+/.buildpath
+/.project
+/create_phar.bat
+/install.bat
+/composer.lock
+/vendor
+/.idea
+/web/.htaccess
+/web/favicon.ico
+/web/backend/favicon.ico
+/web/api/favicon.ico
+*-local.php
+*.htaccess
